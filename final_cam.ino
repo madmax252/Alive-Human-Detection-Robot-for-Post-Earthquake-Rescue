@@ -8,8 +8,8 @@ const char* ssid = "M4 Pro";
 const char* password = "mad234hav";
 
 // 2. Telegram Bot Details
-String BOTtoken = "8191960537:AAGXffEpCdI5WPVIfg46DBYt5LScGn70xYE";
-String chat_id  = "1158218205";
+String BOTtoken = "your bot token";
+String chat_id  = "your chat id";
 
 // ===============================
 // NEW: Sensor Trigger Settings
